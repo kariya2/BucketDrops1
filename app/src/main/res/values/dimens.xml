@@ -2,4 +2,9 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="btn_add_it_corner_radius">2dp</dimen>
+    <dimen name="dimen_logo_margin">84dp</dimen>
+    <dimen name="tv_title_text_size">18sp</dimen>
+    <dimen name="tv_title_marginTopBottom">36dp</dimen>
+    <dimen name="btn_close_size">12dp</dimen>
 </resources>
